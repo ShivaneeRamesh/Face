@@ -10,3 +10,6 @@ Libraries used: Tensorflow, Keras, OpenCV, Numpy.
 
 Dataset:
 The training and testing dataset contain 2000 images for mask and no mask respectively.
+![nmn](https://user-images.githubusercontent.com/54318805/131512636-02860e49-666c-4893-b4a0-03fb2738429d.jpeg)
+
+
